@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+robin_stocks
+scikit-learn
+xgboost
+lightgbm
+catboost
+plotly
+matplotlib
