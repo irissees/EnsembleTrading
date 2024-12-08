@@ -1,7 +1,7 @@
 # Ensemble Trading with Robinhood API
 
 ## Overview
-This module leverages advanced machine learning models—**XGBoost**, **LightGBM**, and **CatBoost**—to predict overnight changes in stock prices within the stock market using the Robinhood API. It is particularly suited for smaller trading accounts aiming to generate income while adhering to the **Pattern Day Trader Rule**.
+This project leverages advanced machine learning models—**XGBoost**, **LightGBM**, and **CatBoost**—to predict overnight changes in stock prices within the stock market using the Robinhood API. It is particularly suited for smaller trading accounts aiming to generate income while adhering to the **Pattern Day Trader Rule**.
 
 ## Key Features
 - **Stock Data Retrieval**: Automatically fetches daily stock data for the past five years using the **Robinhood API**.
